@@ -1,5 +1,7 @@
 HELLO WORLD 😄
 
+![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
+
 <!--
 **dacoffey/dacoffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
