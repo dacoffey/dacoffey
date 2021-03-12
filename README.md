@@ -2,6 +2,17 @@
 
 ![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
 
+---
+
+- ### [COGSMITH](http://cogsmith.com)
+- ### [David-Adam-Coffey](http://david-adam-coffey.com)
+- ### [Docker](https://hub.docker.com/u/cogsmith)
+- ### [Gists](https://gist.github.com/dacoffey)
+- ### [LinkedIn](https://linkedin.com/in/dacoffey)
+- ### [StackOverflow](https://stackoverflow.com/users/1477533/dac)
+
+---
+
 <!--
 **dacoffey/dacoffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
