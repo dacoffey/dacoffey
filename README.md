@@ -19,7 +19,7 @@
 
 ## :rocket: Full Stack Expertise
 
-- <b>DevOps</b>: Linux, Docker, GitHub, AWS, Azure, MS Teams, VS Code, VirtualBox
+- <b>DevOps</b>: Linux, Docker, VirtualBox, GitHub, AWS, Azure, MS Teams, VS Code
 - <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, NextJS
 - <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron
 - <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
