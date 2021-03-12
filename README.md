@@ -1,4 +1,4 @@
-# HELLO WORLD 😄 :sparkles: :rocket: :zap:
+# HELLO WORLD 😄 :rocket: :zap:
 
 ![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
 
