@@ -4,13 +4,15 @@
 
 ---
 
+## IT Solutions Provider
+
 - ### :octocat: [GitHub](https://github.com/cogsmith)
 - ### 📝 [Gists](https://gist.github.com/dacoffey)
 - ### 🐳 [Docker](https://hub.docker.com/u/cogsmith)
 - ### :gear: [COGSMITH](http://cogsmith.com)
-- ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
 - ### 💼 [LinkedIn](https://linkedin.com/in/dacoffey)
 - ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
+- ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
 
 ---
 
