@@ -18,7 +18,7 @@
 
 - <b>DevOps</b>: Linux, Docker, GitHub, AWS, Azure, MS Teams
 - <b>Backend</b>: SQL, Mongo, C#, .NET, NodeJS, Fastify
-- <b>Frontend</b>: JavaScript, JQuery, TypeScript, React, Gatsby, Electron
+- <b>Frontend</b>: JavaScript, TypeScript, JQuery, React, Gatsby, Electron
 - <b>Crypto</b>: Blockchain, Solidity, Smart Contracts
 - <b>Embedded</b>: IoT, Pi, Arduino, Home Assistant, ESPHome
 
