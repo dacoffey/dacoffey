@@ -1,4 +1,4 @@
-# HELLO WORLD 😄 :rocket: :zap:
+# HELLO WORLD 😄
 
 ![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
 
@@ -11,6 +11,16 @@
 - ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
 - ### 💼 [LinkedIn](https://linkedin.com/in/dacoffey)
 - ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
+
+---
+
+## :rocket: Full Stack Expertise
+
+- <b>DevOps</b>: Linux, Docker, GitHub, AWS, Azure, MS Teams
+- <b>Backend</b>: SQL, Mongo, C#, .NET, NodeJS, Fastify
+- <b>Frontend</b>: JQuery, React, Gatsby, Electron
+- <b>Crypto</b>: Blockchain, Solidity, Smart Contracts
+- <b>Embedded</b>: IoT, Arduino, Home Assistant, ESPHome
 
 ---
 
