@@ -4,10 +4,11 @@
 
 ---
 
+- ### [GitHub](https://github.com/cogsmith)
+- ### [Gists](https://gist.github.com/dacoffey)
+- ### [Docker](https://hub.docker.com/u/cogsmith)
 - ### [COGSMITH](http://cogsmith.com)
 - ### [David-Adam-Coffey](http://david-adam-coffey.com)
-- ### [Docker](https://hub.docker.com/u/cogsmith)
-- ### [Gists](https://gist.github.com/dacoffey)
 - ### [LinkedIn](https://linkedin.com/in/dacoffey)
 - ### [StackOverflow](https://stackoverflow.com/users/1477533/dac)
 
