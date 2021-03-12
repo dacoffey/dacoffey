@@ -4,7 +4,7 @@
 
 ---
 
-## IT Solutions Provider
+## :zap: IT Solutions Provider
 
 - ### :octocat: [GitHub](https://github.com/cogsmith)
 - ### 📝 [Gists](https://gist.github.com/dacoffey)
