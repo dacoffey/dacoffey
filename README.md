@@ -1,16 +1,16 @@
-# HELLO WORLD 😄
+# HELLO WORLD 😄 :sparkles: :rocket: :zap:
 
 ![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
 
 ---
 
-- ### [GitHub](https://github.com/cogsmith)
-- ### [Gists](https://gist.github.com/dacoffey)
-- ### [Docker](https://hub.docker.com/u/cogsmith)
-- ### [COGSMITH](http://cogsmith.com)
-- ### [David-Adam-Coffey](http://david-adam-coffey.com)
-- ### [LinkedIn](https://linkedin.com/in/dacoffey)
-- ### [StackOverflow](https://stackoverflow.com/users/1477533/dac)
+- ### :octocat: [GitHub](https://github.com/cogsmith)
+- ### 📝 [Gists](https://gist.github.com/dacoffey)
+- ### 🐳 [Docker](https://hub.docker.com/u/cogsmith)
+- ### :gear: [COGSMITH](http://cogsmith.com)
+- ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
+- ### 💼 [LinkedIn](https://linkedin.com/in/dacoffey)
+- ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
 
 ---
 
