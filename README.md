@@ -1,6 +1,7 @@
-# HELLO WORLD 😄
+# 😄 HELLO WORLD 😄
 
 ![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
+
 
 ---
 
