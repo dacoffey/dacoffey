@@ -16,11 +16,11 @@
 
 ## :rocket: Full Stack Expertise
 
-- <b>DevOps</b>: Linux, Docker, GitHub, AWS, Azure, MS Teams
-- <b>Backend</b>: SQL, Redis, Mongo, C#, .NET, NodeJS, Fastify, NextJS
-- <b>Frontend</b>: JavaScript, TypeScript, JQuery, React, Gatsby, Bulma, Electron
+- <b>DevOps</b>: Linux, Docker, GitHub, AWS, Azure, MS Teams, VS Code
+- <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, NextJS
+- <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron
+- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
 - <b>Crypto</b>: Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
-- <b>Embedded</b>: IoT, Pi, Arduino, Home Assistant, ESPHome
 
 ---
 
