@@ -17,7 +17,7 @@
 ## :rocket: Full Stack Expertise
 
 - <b>DevOps</b>: Linux, Docker, GitHub, AWS, Azure, MS Teams
-- <b>Backend</b>: SQL, Mongo, C#, .NET, NodeJS, Fastify, NextJS
+- <b>Backend</b>: SQL, Redis, Mongo, C#, .NET, NodeJS, Fastify, NextJS
 - <b>Frontend</b>: JavaScript, TypeScript, JQuery, React, Gatsby, Electron
 - <b>Crypto</b>: Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 - <b>Embedded</b>: IoT, Pi, Arduino, Home Assistant, ESPHome
