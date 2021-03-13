@@ -15,7 +15,7 @@
 <br>
 
 <code>
-  The most damaging phrase in the language is: <i>it's always been done this way</i>
+  The most damaging phrase in language is: <i>it's always been done this way</i>
   -- <b>Grace Hopper</b>
 </code>
 
