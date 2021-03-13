@@ -24,7 +24,7 @@
 - <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron
 - <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
 - <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
-- <b>Crypto</b>: Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
+- <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
 ---
 
