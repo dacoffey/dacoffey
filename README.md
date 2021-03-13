@@ -29,6 +29,13 @@
 <br>
 
 <code>
+  Everything should be made as simple as possible, but no simpler
+  -- <b>Albert Einstein</b>
+</code
+
+<br>
+
+<code>
   Talk is cheap, show me the code
   -- <b>Linus Torvalds</b>
 </code>
