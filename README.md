@@ -31,7 +31,7 @@
 <code>
   Everything should be made as simple as possible, but no simpler
   -- <b>Albert Einstein</b>
-</code
+</code>
 
 <br>
 
