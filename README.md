@@ -36,8 +36,22 @@
 <br>
 
 <code>
+  Blame nobody, expect nothing, do something!
+  -- <b>Bill Parcells</b>
+</code>
+
+<br>
+
+<code>
   Talk is cheap, show me the code
   -- <b>Linus Torvalds</b>
+</code>
+
+<br>
+
+<code>
+  All programmers are optimists
+  -- <b>Fred Brooks</b>
 </code>
 
 <br>
