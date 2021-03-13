@@ -12,20 +12,28 @@
   -- <b>Larry Wall</b>
 </code>
 
+<br>
+
 <code>
   The most damaging phrase in the language is: <i>it's always been done this way</i>
   -- <b>Grace Hopper</b>
 </code>
+
+<br>
 
 <code>
   In programming, as in everything else, to be in error is to be reborn
   -- <b>Alan Perlis</b>
 </code>
 
+<br>
+
 <code>
   Talk is cheap, show me the code
   -- <b>Linus Torvalds</b>
 </code>
+
+<br>
 
 <code>
   Real artists ship
