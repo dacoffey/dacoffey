@@ -5,6 +5,35 @@
 
 ---
 
+## 💻 Favorite Quotes
+
+<code>
+  The three chief virtues of a programmer are: Laziness, Impatience and Hubris
+  -- <b>Larry Wall</b>
+</code>
+
+<code>
+  The most damaging phrase in the language is: <i>it's always been done this way</i>
+  -- <b>Grace Hopper</b>
+</code>
+
+<code>
+  In programming, as in everything else, to be in error is to be reborn
+  -- <b>Alan Perlis</b>
+</code>
+
+<code>
+  Talk is cheap, show me the code
+  -- <b>Linus Torvalds</b>
+</code>
+
+<code>
+  Real artists ship
+  -- <b>Steve Jobs</b>
+</code>
+
+---
+
 ## :zap: IT Solutions Provider
 
 - ### :octocat: [GitHub](https://github.com/cogsmith)
