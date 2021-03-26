@@ -1,6 +1,8 @@
 # 😄 HELLO WORLD 😄
 
-![COGSMITH](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
+![BANNER](http://david-adam-coffey.com/img/BANNERX.PNG)
+
+![HELLOWORLD](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
 
 
 ---
