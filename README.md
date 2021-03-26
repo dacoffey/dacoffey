@@ -1,8 +1,8 @@
-![BANNER](http://david-adam-coffey.com/img/BANNERX.PNG)
+![BANNER](BANNERX.PNG)
 
 # 😄 HELLO WORLD 😄
 
-![HELLOWORLD](https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish-size_restricted.gif)
+![HELLOWORLD](API.GIF)
 
 
 ---
