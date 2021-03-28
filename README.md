@@ -82,7 +82,7 @@
 
 - <b>DevOps</b>: Linux, Docker, VirtualBox, GitHub, AWS, Azure, MS Teams, VS Code
 - <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, Express
-- <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron
+- <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron, Material UI
 - <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
 - <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
