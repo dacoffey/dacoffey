@@ -10,7 +10,7 @@
 ## 💻 Favorite Quotes
 
 <code>
-  The three chief virtues of a programmer are: Laziness, Impatience and Hubris
+  The three chief virtues of a programmer are: <u>Laziness</u>, <u>Impatience</u>, and <u>Hubris</u>
   -- <b>Larry Wall</b>
 </code>
 
