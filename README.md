@@ -1,10 +1,16 @@
 ![BANNER](BANNERX.PNG)
 
-<img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right">
-
 # 😄 HELLO WORLD 😄
 
-![HELLOWORLD](API.GIF)
+<img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right">
+
+![HELLOWORLD](API.GIF)]
+
+<!--
+---
+
+[![LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoffey&layout=compact&langs_count=9)(https://github.com/dacoffey)
+-->
 
 ---
 
@@ -87,6 +93,12 @@
 - <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
 - <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
+
+---
+
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webgate)](https://github.com/cogsmith/webgate)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webhost)](https://github.com/cogsmith/webhost)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=hive)](https://github.com/cogsmith/hive)
 
 ---
 
