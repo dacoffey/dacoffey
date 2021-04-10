@@ -1,9 +1,10 @@
 ![BANNER](BANNERX.PNG)
 
+<img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right">
+
 # 😄 HELLO WORLD 😄
 
 ![HELLOWORLD](API.GIF)
-
 
 ---
 
