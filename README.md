@@ -4,7 +4,7 @@
 
 <!-- <h1>😄 HELLO WORLD 😄</h1> -->
 
-<img src='API.GIF' align='right' width='375px'>
+<img src='API.GIF' align='right' width='350px'>
 
 <!-- <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right"> -->
 
