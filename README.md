@@ -20,6 +20,34 @@
 
 ---
 
+<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
+
+## :zap: IT Solutions Provider
+
+- ### :octocat: [GitHub](https://github.com/cogsmith)
+- ### 📝 [Gists](https://gist.github.com/dacoffey)
+- ### 🐳 [Docker](https://hub.docker.com/u/cogsmith)
+- ### :gear: [COGSMITH](http://cogsmith.com)
+- ### 💖 [Sponsor Me](https://github.com/sponsors/dacoffey)
+- ### 💼 [LinkedIn](https://linkedin.com/in/dacoffey)
+- ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
+- ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
+
+---
+
+---
+
+## :rocket: Full Stack Expertise
+
+- <b>DevOps</b>: Linux, VirtualBox, Docker, GitHub Actions, AWS, MS Teams, VS Code
+- <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, Express
+- <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron, Material UI
+- <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
+- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
+- <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
+
+---
+
 ## 💻 Favorite Quotes
 
 <code>
@@ -75,34 +103,6 @@
   Real artists ship
   -- <b>Steve Jobs</b>
 </code>
-
----
-
-<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
-
-## :zap: IT Solutions Provider
-
-- ### :octocat: [GitHub](https://github.com/cogsmith)
-- ### 📝 [Gists](https://gist.github.com/dacoffey)
-- ### 🐳 [Docker](https://hub.docker.com/u/cogsmith)
-- ### :gear: [COGSMITH](http://cogsmith.com)
-- ### 💖 [Sponsor Me](https://github.com/sponsors/dacoffey)
-- ### 💼 [LinkedIn](https://linkedin.com/in/dacoffey)
-- ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
-- ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
-
----
-
----
-
-## :rocket: Full Stack Expertise
-
-- <b>DevOps</b>: Linux, VirtualBox, Docker, GitHub Actions, AWS, MS Teams, VS Code
-- <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, Express
-- <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron, Material UI
-- <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
-- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
-- <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
 ---
 
