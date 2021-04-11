@@ -120,6 +120,12 @@
 
 ---
 
+## ⭐ HX: Home Assistant Addons
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-nodejs)](https://github.com/cogsmith/homeassistant-nodejs)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-webproxy)](https://github.com/cogsmith/homeassistant-webproxy)
+
+---
+
 ## ⭐ DEVKING: Development Helpers
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-release)](https://github.com/cogsmith/devking-release)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker)](https://github.com/cogsmith/devking-tracker)
