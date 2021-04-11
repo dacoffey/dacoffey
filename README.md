@@ -2,14 +2,11 @@
 
 <h1>😄 HELLO WORLD 😄</h1>
 
-<p align="center">
-</p>
-
-<img src='API.GIF' align='right'>
+<img src='API.GIF' align='right' width='325px'>
 
 <!-- <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right"> -->
 
-![Metrics](https://metrics.lecoq.io/dacoffey?template=classic&base.repositories=0&isocalendar=1&introduction=1&lines=1&isocalendar.duration=half-year&introduction.title=true&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/dacoffey?template=classic&base.repositories=0&isocalendar=1&introduction=1&lines=1&isocalendar.duration=month&introduction.title=true&config.timezone=America%2FNew_York)
 
 <!--
 ---
