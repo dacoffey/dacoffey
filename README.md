@@ -10,7 +10,6 @@
 
 <img width='60%' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York'>
 
-
 <!--
 <img width='45%' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FNew_York'>
 -->
@@ -20,6 +19,8 @@
 -->
 
 ---
+
+&nbsp;
 
 ## 💻 Favorite Quotes
 
@@ -77,7 +78,11 @@
   -- <b>Steve Jobs</b>
 </code>
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 <img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
 
@@ -92,6 +97,8 @@
 - ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
 - ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
 
+&nbsp;
+
 ---
 
 ---
@@ -105,27 +112,41 @@
 - <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## ⭐ HIVE
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=hive)](https://github.com/cogsmith/hive)
 
+&nbsp;
+
 ## ⭐ WEB
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webgate)](https://github.com/cogsmith/webgate)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webhost)](https://github.com/cogsmith/webhost)
+
+&nbsp;
 
 ## ⭐ DEVKING
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-release)](https://github.com/cogsmith/hive)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker)](https://github.com/cogsmith/hive)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-cleanup)](https://github.com/cogsmith/hive)
 
+&nbsp;
+
 ## ⭐ TOOLS
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=nodeinfo)](https://github.com/cogsmith/hive)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=docker-nodemon)](https://github.com/cogsmith/hive)
 
+&nbsp;
+
 ## ⭐ README
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=cogsmith)](https://github.com/cogsmith/webgate)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=dacoffey&repo=dacoffey)](https://github.com/cogsmith/webhost)
+
+&nbsp;
 
 ---
 
