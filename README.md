@@ -1,6 +1,8 @@
 ![BANNER](BANNERX.PNG)
 
-<h1>😄 HELLO WORLD 😄</h1>
+<!-- <h1>😄 HELLO WORLD 😄</h1> -->
+
+<p align="center"><img src='HELLOWORLD.PNG'></p>
 
 <img src='API.GIF' align='right' width='325px'>
 
