@@ -22,7 +22,7 @@
 
 <!-- <img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'> -->
 
-<img width='20%' align='right' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York'>
+<img width='60%' align='right' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York'>
 
 ## :zap: IT Solutions Provider
 
