@@ -74,7 +74,7 @@
 
 ---
 
-<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' align='right'>
+<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
 
 ## :zap: IT Solutions Provider
 
@@ -86,6 +86,8 @@
 - ### 💼 [LinkedIn](https://linkedin.com/in/dacoffey)
 - ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
 - ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
+
+---
 
 ---
 
