@@ -20,8 +20,6 @@
 
 ---
 
-&nbsp;
-
 ## 💻 Favorite Quotes
 
 <code>
@@ -78,11 +76,7 @@
   -- <b>Steve Jobs</b>
 </code>
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 <img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
 
@@ -97,8 +91,6 @@
 - ### :toolbox: [StackOverflow](https://stackoverflow.com/users/1477533/dac)
 - ### :mage: [David-Adam-Coffey](http://david-adam-coffey.com)
 
-&nbsp;
-
 ---
 
 ---
@@ -112,41 +104,27 @@
 - <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
-&nbsp;
-
 ---
-
-&nbsp;
 
 ## ⭐ HIVE
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=hive)](https://github.com/cogsmith/hive)
 
-&nbsp;
-
 ## ⭐ WEB
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webgate)](https://github.com/cogsmith/webgate)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webhost)](https://github.com/cogsmith/webhost)
-
-&nbsp;
 
 ## ⭐ DEVKING
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-release)](https://github.com/cogsmith/hive)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker)](https://github.com/cogsmith/hive)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-cleanup)](https://github.com/cogsmith/hive)
 
-&nbsp;
-
 ## ⭐ TOOLS
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=nodeinfo)](https://github.com/cogsmith/hive)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=docker-nodemon)](https://github.com/cogsmith/hive)
 
-&nbsp;
-
 ## ⭐ README
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=cogsmith)](https://github.com/cogsmith/webgate)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=dacoffey&repo=dacoffey)](https://github.com/cogsmith/webhost)
-
-&nbsp;
 
 ---
 
