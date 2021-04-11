@@ -8,7 +8,7 @@
 
 <!-- <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right"> -->
 
-<img width='60%' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York'>
+<img height='455px' width='480px' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York'>
 
 <!--
 <img width='45%' src='https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&isocalendar=1&languages=1&introduction=1&lines=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FNew_York'>
