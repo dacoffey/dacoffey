@@ -111,7 +111,7 @@
 
 ---
 
-## ⭐ WEB: Services Designed For Hive (Can Run Standalone Also)
+## ⭐ WEB: Services Designed For HIVE (Can Run Standalone Also)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webgate)](https://github.com/cogsmith/webgate)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webhost)](https://github.com/cogsmith/webhost)
 
