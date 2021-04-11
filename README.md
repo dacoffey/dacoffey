@@ -6,11 +6,9 @@
 
 <!-- <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right"> -->
 
-![Metrics](https://metrics.lecoq.io/dacoffey?template=classic&base.repositories=0&isocalendar=1&introduction=1&lines=1&isocalendar.duration=month&introduction.title=true&config.timezone=America%2FNew_York)
+<img src='https://metrics.lecoq.io/dacoffey?template=classic&base.repositories=0&isocalendar=1&introduction=1&lines=1&isocalendar.duration=month&introduction.title=true&config.timezone=America%2FNew_York' width='420px'>
 
 <!--
----
-
 [![LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=dacoffey&layout=compact&langs_count=9)(https://github.com/dacoffey)
 -->
 
