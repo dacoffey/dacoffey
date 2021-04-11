@@ -19,6 +19,7 @@
 -->
 
 ---
+---
 
 <img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
 
@@ -46,6 +47,7 @@
 - <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
+---
 ---
 
 ## 💻 Favorite Quotes
