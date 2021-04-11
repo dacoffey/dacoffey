@@ -74,6 +74,8 @@
 
 ---
 
+<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' align='right'>
+
 ## :zap: IT Solutions Provider
 
 - ### :octocat: [GitHub](https://github.com/cogsmith)
