@@ -21,7 +21,7 @@
 ---
 ---
 
-<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' align='right'>
+<img src='https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5' width='50%' height='90%' height='300px' align='right'>
 
 ## :zap: IT Solutions Provider
 
