@@ -16,5 +16,5 @@ jobs:
         git add INFO.SVG
         git add DT.TXT
         git add -u
-        git commit -m 'README'
+        git commit -m 'AUTO_UPDATE'
         git push
