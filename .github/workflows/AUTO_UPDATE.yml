@@ -1,0 +1,19 @@
+name: AUTO_UPDATE
+on:
+  workflow_dispatch:  
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        date > DT.TXT
+        wget -O INFO.SVG "https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York"
+        git config user.name DAC ; git config user.email dac@cogsmith.com
+        git add INFO.SVG
+        git add DT.TXT
+        git add -u
+        git commit -m 'AUTO_UPDATE'
+        git push
