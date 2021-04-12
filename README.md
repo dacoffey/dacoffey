@@ -121,8 +121,7 @@
 ---
 
 ## ⭐ HX: Home Assistant Addons
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-nodejs)](https://github.com/cogsmith/homeassistant-nodejs)
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-webproxy)](https://github.com/cogsmith/homeassistant-webproxy)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-addons)](https://github.com/cogsmith/homeassistant-addons)
 
 ---
 
