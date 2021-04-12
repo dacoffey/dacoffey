@@ -163,7 +163,7 @@
 ## ⭐ SCRIPTS: Random Scripts
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=scripts)](https://github.com/cogsmith/scripts)
 
---
+---
 
 ## ⭐ README: You Are Here!
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=cogsmith)](https://github.com/cogsmith/cogsmith)
