@@ -109,7 +109,7 @@
 ---
 ---
 
-## ⭐ HIVE: Simple Filesystem Based Docker Orchestration
+## ⭐ HIVE: Simple Filesystem-Based Docker Orchestration
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=hive)](https://github.com/cogsmith/hive)
 
 ---
@@ -117,11 +117,6 @@
 ## ⭐ WEB: HTTP Servers Designed For HIVE Hosting Or Standalone Use
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webgate)](https://github.com/cogsmith/webgate)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=webhost)](https://github.com/cogsmith/webhost)
-
----
-
-## ⭐ HX: Home Assistant Addons
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-addons)](https://github.com/cogsmith/homeassistant-addons)
 
 ---
 
@@ -136,6 +131,11 @@
 <a href='https://github.com/cogsmith/devking-tracker'><img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker'></a>
 <a href='https://github.com/cogsmith/devking-cleanup'><img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-cleanup'></a>
 -->
+
+---
+
+## ⭐ HX: Home Assistant Addons
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=homeassistant-addons)](https://github.com/cogsmith/homeassistant-addons)
 
 ---
 
