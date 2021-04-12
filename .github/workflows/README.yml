@@ -1,0 +1,17 @@
+  
+name: README
+on:
+  workflow_dispatch:  
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        date > DT.TXT
+        git config user.name DAC ; git config user.email dac@cogsmith.com
+        git add -u
+        git commit -m 'README'
+        git push
