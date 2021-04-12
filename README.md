@@ -110,7 +110,7 @@
 ---
 
 ## ⭐ XT: Application Framework
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=hive)](https://github.com/cogsmith/hive)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=xtjs)](https://github.com/cogsmith/xtjs)
 
 ---
 
