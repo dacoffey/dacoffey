@@ -126,7 +126,7 @@
 
 ---
 
-## ⭐ DEVKING: Development Helpers
+## ⭐ DEVKING: GitHub Actions & Development Helpers
 
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-release)](https://github.com/cogsmith/devking-release)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker)](https://github.com/cogsmith/devking-tracker)
