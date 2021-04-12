@@ -11,7 +11,10 @@ jobs:
     - uses: actions/checkout@v2
     - run: |
         date > DT.TXT
+        wget "https://metrics.lecoq.io/dacoffey?template=classic&repositories.affiliations=organization_member&base.activity=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York"
         git config user.name DAC ; git config user.email dac@cogsmith.com
+        echp git add INFO.PNG
+        git add DT.TXT
         git add -u
         git commit -m 'README'
         git push
