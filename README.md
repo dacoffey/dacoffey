@@ -167,7 +167,7 @@
 
 ## ⭐ README: You Are Here!
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=cogsmith)](https://github.com/cogsmith/cogsmith)
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=dacoffey&repo=dacoffey)](https://github.com/cogsmith/dacoffey)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=dacoffey&repo=dacoffey)](https://github.com/dacoffey/dacoffey)
 
 ---
 ---
