@@ -52,6 +52,8 @@
 
 ## 💬 Favorite Quotes
 
+  
+
 <code>
   The three chief virtues of a programmer are: <u>Laziness</u>, <u>Impatience</u>, and <u>Hubris</u>
   -- <b>Larry Wall</b>
@@ -83,6 +85,13 @@
 <code>
   Blame nobody, expect nothing, do something!
   -- <b>Bill Parcells</b>
+</code>
+
+<br>
+
+<code>
+  What I cannot create, I do not understand
+  -- <b>Richard Feynman</b>
 </code>
 
 <br>
