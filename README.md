@@ -90,7 +90,7 @@
 <br>
 
 <code>
-  What I cannot create, I do not understand
+  What I can't create, I do not understand
   -- <b>Richard Feynman</b>
 </code>
 
