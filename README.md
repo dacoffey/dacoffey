@@ -41,18 +41,16 @@
 ## :rocket: Full Stack Expertise
 
 - <b>DevOps</b>: Linux, VirtualBox, Docker, GitHub Actions, AWS, MS Teams, VS Code
-- <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, Express
-- <b>Frontend</b>: JS, JQuery, TypeScript, React, Gatsby, Bulma, Electron, Material UI
+- <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, Express, Web APIs
+- <b>Frontend</b>: JS, JQuery, React, Gatsby, Bulma, Electron, Material UI
 - <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
-- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHome, Home Assistant
+- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHOME, Home Assistant
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
 ---
 ---
 
 ## 💬 Favorite Quotes
-
-  
 
 <code>
   The three chief virtues of a programmer are: <u>Laziness</u>, <u>Impatience</u>, and <u>Hubris</u>
