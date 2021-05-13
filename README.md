@@ -139,6 +139,7 @@
 
 ## ⭐ DEVKING: GitHub Actions & Development Helpers
 
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-vscode)](https://github.com/cogsmith/devking-vscode)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-release)](https://github.com/cogsmith/devking-release)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker)](https://github.com/cogsmith/devking-tracker)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-cleanup)](https://github.com/cogsmith/devking-cleanup)
@@ -148,6 +149,11 @@
 <a href='https://github.com/cogsmith/devking-tracker'><img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker'></a>
 <a href='https://github.com/cogsmith/devking-cleanup'><img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-cleanup'></a>
 -->
+
+---
+
+## ⭐ APPS: Desktop Applications
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=keyfu)](https://github.com/cogsmith/keyfu)
 
 ---
 
