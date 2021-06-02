@@ -44,7 +44,7 @@
 - <b>Backend</b>: SQL, Mongo, Redis, C#, .NET, NodeJS, Fastify, Express, Web APIs
 - <b>Frontend</b>: JS, JQuery, React, Gatsby, Bulma, Electron, Material UI
 - <b>Networking</b>: IpTables, NTop, DnsMasq, PXE, SSH, RDP, NAS, Samba, LDAP
-- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHOME, Home Assistant, JSCAD
+- <b>Embedded</b>: IoT, Pi, Arduino, ESP32, ESPHOME, Home Assistant, OpenSCAD, MakerJS
 - <b>Crypto</b>: ACME, Blockchain, Bitcoin, Ethereum, Solidity, Smart Contracts
 
 ---
