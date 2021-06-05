@@ -154,6 +154,7 @@
 
 ## ⭐ HARDWARE: Smart Devices & Embedded Systems
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=aspen)](https://github.com/cogsmith/aspen)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=models-makerjs)](https://github.com/cogsmith/models-makerjs)
 
 ---
 
