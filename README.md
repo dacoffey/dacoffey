@@ -144,6 +144,14 @@
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker)](https://github.com/cogsmith/devking-tracker)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-cleanup)](https://github.com/cogsmith/devking-cleanup)
 
+---
+
+## ⭐ TOOLS: Custom Utilities
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=nodeinfo)](https://github.com/cogsmith/nodeinfo)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=docker-nodemon)](https://github.com/cogsmith/docker-nodemon)
+
+---
+
 <!--
 <a href='https://github.com/cogsmith/devking-release'><img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-release'></a>
 <a href='https://github.com/cogsmith/devking-tracker'><img width='32%' src='https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-tracker'></a>
@@ -154,12 +162,15 @@
 
 ## ⭐ HARDWARE: Smart Devices & Embedded Systems
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=aspen)](https://github.com/cogsmith/aspen)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=keyfu)](https://github.com/cogsmith/keyfu)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=models-makerjs)](https://github.com/cogsmith/models-makerjs)
 
+<!--
 ---
 
 ## ⭐ APPS: Desktop Applications
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=keyfu)](https://github.com/cogsmith/keyfu)
+-->
 
 ---
 
@@ -171,12 +182,6 @@
 ## ⭐ SKEL: Project Templates
 
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=gatsby-bulma)](https://github.com/cogsmith/gatsby-bulma)
-
----
-
-## ⭐ TOOLS: Custom Utilities
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=nodeinfo)](https://github.com/cogsmith/nodeinfo)
-[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=docker-nodemon)](https://github.com/cogsmith/docker-nodemon)
 
 ---
 
