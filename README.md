@@ -38,7 +38,7 @@
 
 ---
 
-## :rocket: Full Stack Expertise
+## 🚀 Full Stack Expertise
 
 - <b>DevOps</b>: Linux, VirtualBox, Docker, GitHub Actions, AWS, MS Teams, VS Code
 - <b>Backend</b>: SQL, PostgreSQL, PouchDB, Mongo, Redis, C#, NodeJS, Fastify, Express, Web APIs
