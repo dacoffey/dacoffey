@@ -1,6 +1,5 @@
-# Experienced Full-Stack Software Engineer
-
-## Seeking a developer role focused on my core strengths of Linux & NodeJS
+# ⭐ Experienced Full-Stack Software Engineer ⭐
+## Currently seeking a developer role focused on my core strengths of Linux & NodeJS!
 
 ---
 
