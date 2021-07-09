@@ -1,3 +1,9 @@
+# Experienced Full-Stack Software Engineer
+
+## Seeking a developer role focused on my core strengths of Linux & NodeJS
+
+---
+
 <p align="center"><img src='HELLOWORLD.PNG'></p>
 
 ![BANNER](BANNERX.PNG)
