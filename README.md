@@ -13,6 +13,8 @@
 
 <p align="center">
   <b>Latest Projects</b>
+  <br>
+  <b>"Real Artists Ship!"</b>
 </p>
 
 <br>
