@@ -7,19 +7,28 @@
 
 ---
 
+<br>
+
 <p align="center">
   <b>Latest Projects</b>
 </p>
 
+<br>
 
 # ⭐ FRONTEND: <a href='https://react.cogsmith.com/'>React + MaterialUI Demo</a>
 ## Simple demo meant to replace a complicated spreadsheet used for quoting sales figures
 
+<br>
+
 # ⭐ BACKEND: <a href='https://github.com/cogsmith/webgate'>WEBGATE</a>
 ## Reverse web proxy for NodeJS that generates HTTPS certificates automagically using LetsEncrypt ACME v2 REST protocol
 
+<br>
+
 # ⭐ DEVOPS: <a href='https://github.com/cogsmith/devking-release'>DEVKING:Release</a>
 ## GitHub CI tag and release automation based on simple commit messages
+
+<br>
 
 ---
 
