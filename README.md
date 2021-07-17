@@ -1,5 +1,7 @@
 ![HEADER](HEADER.PNG)
 
+<br>
+
 # 🚀 Experienced Full-Stack Software Engineer 🚀
 ## Currently seeking a developer role focused on my core strengths of Linux & NodeJS!
 
