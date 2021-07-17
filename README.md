@@ -9,10 +9,6 @@
 
 ---
 
-<p align="center"><img src='HELLOWORLD.PNG'></p>
-
----
-
 <br>
 
 <p align="center">
@@ -37,6 +33,10 @@
 ## GitHub CI tag and release automation based on simple commit messages
 
 <br>
+
+---
+
+<p align="center"><img src='HELLOWORLD.PNG'></p>
 
 ---
 
