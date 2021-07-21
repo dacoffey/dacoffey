@@ -29,7 +29,7 @@
 
 <br>
 
-# ⭐ DEVOPS: <a href='https://github.com/cogsmith/devking-release'>DEVKING:Release</a>
+# ⭐ DEVOPS: <a href='https://github.com/cogsmith/devking-release'>DEVKING.Release</a>
 ## GitHub Action CI tag and release automation based on simple commit messages
 
 <br>
