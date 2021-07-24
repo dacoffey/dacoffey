@@ -34,6 +34,17 @@
 
 <br>
 
+# ⭐ TERMINAL: <a href='https://github.com/cogsmith/dclone'>DCLONE</a>
+## Terminal menu interface for guided disk cloning using dd + mksquashfs + kpartx
+
+<br><br>
+
+<a href='https://github.com/cogsmith/dclone'>
+  <img src='https://github.com/cogsmith/dclone/raw/main/SCREENCAP.GIF' />
+</a>
+
+<br><br>
+
 ---
 
 <p align="center"><img src='HELLOWORLD.PNG'></p>
