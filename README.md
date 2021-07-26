@@ -188,6 +188,12 @@
 
 ---
 
+## ⭐ VSCODE: Visual Studio Code IDE Extensions
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-vscode)](https://github.com/cogsmith/devking-vscode)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=vscode-makerjs)](https://github.com/cogsmith/vscode-makerjs)
+
+---
+
 ## ⭐ DEVKING: GitHub Actions & Development Helpers
 
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=devking-vscode)](https://github.com/cogsmith/devking-vscode)
@@ -200,6 +206,7 @@
 ## ⭐ TOOLS: Custom Utilities
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=nodeinfo)](https://github.com/cogsmith/nodeinfo)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=docker-nodemon)](https://github.com/cogsmith/docker-nodemon)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=dclone)](https://github.com/cogsmith/dclone)
 
 ---
 
