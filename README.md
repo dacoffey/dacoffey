@@ -30,12 +30,12 @@
 <br>
 
 # ⭐ DEVOPS: <a href='https://github.com/cogsmith/devking-release'>DEVKING.Release</a>
-## GitHub Action CI tag and release automation based on simple commit messages
+## GitHub Action CI tag and release automation based on simple commit messages using Octokit JS
 
 <br>
 
 # ⭐ TERMINAL: <a href='https://github.com/cogsmith/dclone'>DCLONE</a>
-## Terminal menu interface for guided disk cloning using dd + mksquashfs + kpartx
+## Terminal menu interface for guided disk cloning using dd + mksquashfs + kpartx powered by NodeJS & Blessed
 
 <br><br>
 
