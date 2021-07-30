@@ -1,13 +1,11 @@
 ![HEADER](HEADER.PNG)
 
-<br>
-
 <!--
+<br>
 # 👨‍🔧 Experienced Full-Stack Software Engineer 👨‍🔧
 ## Currently seeking a developer role focused on my core strengths of Linux & NodeJS!
--->
-
 <br>
+-->
 
 ---
 
