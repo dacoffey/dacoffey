@@ -34,7 +34,7 @@
 
 <br>
 
-# ⭐ TERMINAL: <a href='https://github.com/cogsmith/dclone'>DCLONE</a>
+# ⭐ SYSOPS: <a href='https://github.com/cogsmith/dclone'>DCLONE</a>
 ## Terminal menu interface for guided disk cloning using dd + mksquashfs + kpartx powered by NodeJS & Blessed
 
 <br><br>
