@@ -207,6 +207,7 @@
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=nodeinfo)](https://github.com/cogsmith/nodeinfo)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=docker-nodemon)](https://github.com/cogsmith/docker-nodemon)
 [![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=dclone)](https://github.com/cogsmith/dclone)
+[![CARD](https://github-readme-stats.vercel.app/api/pin/?username=cogsmith&repo=zest)](https://github.com/cogsmith/zest)
 
 ---
 
