@@ -160,7 +160,7 @@
 <br>
 
 <code>
-  Real artists ship
+  Real artists ship!
   -- <b>Steve Jobs</b>
 </code>
 
