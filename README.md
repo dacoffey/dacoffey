@@ -19,7 +19,7 @@
 
 <br>
 
-# ⭐ FRONTEND: <a href='https://react.cogsmith.com/'>React Hooks + MaterialUI Demo</a>
+# ⭐ FRONTEND: <a href='https://contactease.cogsmith.com/'>React Hooks + MaterialUI Demo</a>
 ## Simple demo meant to replace a complicated spreadsheet used for quoting sales figures
 
 <br>
