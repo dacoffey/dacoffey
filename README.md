@@ -1,13 +1,18 @@
-![HEADER](HEADER.PNG)
+<h1 align='center'>COGSMITH: IT Services & Solutions Provider</h1>
+<h2 align='center'>
+	<a href='https://github.com/dacoffey'><img src='https://raw.githubusercontent.com/dacoffey/dacoffey/main/HEADER.PNG' /></a>
+	DAC: David Adam Coffey @ https://github.com/dacoffey
+</h2>
 
 <!--
+![HEADER](HEADER.PNG)
 <br>
 # 👨‍🔧 Experienced Full-Stack Software Engineer 👨‍🔧
 ## Currently seeking a developer role focused on my core strengths of Linux & NodeJS!
 <br>
 -->
 
----
+<br><br><h3 align='center'>😎 HELLO WORLD 😎</h3><br><br>
 
 ## 💬 Favorite Quotes
 
