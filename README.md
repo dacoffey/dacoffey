@@ -12,7 +12,7 @@
 <br>
 -->
 
-<br><br><h3 align='center'>😎 HELLO WORLD 😎</h3><br><br>
+<br><br><h3 align='center'>😎 HELLO WORLD 😎</h3><br>
 
 ## 💬 Favorite Quotes
 
